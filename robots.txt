@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://binxindustries.com.au/sitemap.xml
